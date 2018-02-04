@@ -2,3 +2,6 @@
 *.project
 gson/.settings/
 gson/target/
+base.java.util/target/
+base.java.util/.settings/
+.settings/
